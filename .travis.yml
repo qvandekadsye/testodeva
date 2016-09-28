@@ -1,7 +1,5 @@
 language: android
-machine:
-    java:
-        version: openjdk8
+    jdk: oraclejdk8
 android:
     components:
         - platform-tools
